@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efaa0c41b5176074fa1802eb5283cc31, type: 3}
+  m_Name: Game Config
+  m_EditorClassIdentifier: 
+  _playerHP: 100
+  _maxPlayerHP: 100
+  _enemyHP: 100
+  _maxEnemyHP: 100
+  _inventorySlotCount: 30
+  _pistolDamage: 5
+  _rifleDamage: 9
+  _enemyDamage: 15
+  _initialPlayerItems:
+  - item: {fileID: 11400000, guid: 93dcd79cf74fb60409acf1237fab48ee, type: 2}
+    quantity: 50
+  - item: {fileID: 11400000, guid: 0ceb831d11404f34bb67d925ce516ce6, type: 2}
+    quantity: 100
+  - item: {fileID: 11400000, guid: fa04bbdfc01861b4f86d795670a6ee6e, type: 2}
+    quantity: 6
+  - item: {fileID: 11400000, guid: c72d26a01dd84d84cb93ce8cbac61f95, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 5f04b276c6c0c6f44a072c51419cdeb7, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 3568366192264fc429d790bf2c0f6276, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 0d2fc5bf45000834e9b5220efd11c420, type: 2}
+    quantity: 1

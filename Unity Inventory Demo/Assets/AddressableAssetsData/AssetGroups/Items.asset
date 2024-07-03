@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  m_GroupName: Items
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 53ee130d49e2feb4b93597238214a2f7
+  m_SerializeEntries:
+  - m_GUID: 3568366192264fc429d790bf2c0f6276
+    m_Address: Assets/Unity Inventory Demo/Addressables/Items/Cap.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ceb831d11404f34bb67d925ce516ce6
+    m_Address: "Assets/Unity Inventory Demo/Addressables/Items/5.45\u044539mm cartridges.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93dcd79cf74fb60409acf1237fab48ee
+    m_Address: Assets/Unity Inventory Demo/Addressables/Items/9x18mm cartridges.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f04b276c6c0c6f44a072c51419cdeb7
+    m_Address: Assets/Unity Inventory Demo/Addressables/Items/Body Armor.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa04bbdfc01861b4f86d795670a6ee6e
+    m_Address: Assets/Unity Inventory Demo/Addressables/Items/First Aid Kit.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d2fc5bf45000834e9b5220efd11c420
+    m_Address: Assets/Unity Inventory Demo/Addressables/Items/Helmet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c72d26a01dd84d84cb93ce8cbac61f95
+    m_Address: Assets/Unity Inventory Demo/Addressables/Items/Jacket.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cb6c1a5be931b064eaa1cfe57e4a6cb9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f25a0e2df1805b145a724a9ef21d0c2d, type: 2}
+    - {fileID: 11400000, guid: aeddaba0a13651547b13f351dc69a593, type: 2}
